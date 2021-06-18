@@ -6,6 +6,7 @@ ZZAPFILX has 3,952 movies and makes your life richer by recommending the perfect
 ## Movie that suit your taste
 ZZAPFLIX recommends movies that are suitable for your gender, age, occupation, and favorite genre. If there's movies that suit your taste, ZZAPFLIX recommends movies that are similar to your favorite movies and that you will like.
 ## Life Convenience
+![convenience](./convenience.png)
 Wherever the Internet is connected, ZZAPFIX recommends movies to you. ZZAPFLIX can be used regardless of whether it's a computer or smartphone.
 ## Free for Everyone
 You can get movie recommendations anytime, anywhere without any conditions and signing up.
