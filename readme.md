@@ -1,6 +1,6 @@
 ![Logo](./ZZAPFLIX.jpg)
 # ZZAPFILIX
-ZZAPFILX is a movie recommendation service that recommends movies based on your preference.
+ZZAPFILX is a movie recommendation service that recommends movies based on your preference. There are endless contents prepared, and you can get recommendations for movies that you like and movies that have been loved by many people.
 ***
 ## Various Movies
 ![various](./various.png)
